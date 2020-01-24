@@ -1,23 +1,4 @@
-# ![](docs/img/logo_sm.png) Visual Analysis for State Changes in RNNs
-
-More information about LSTMVis, an introduction video, and the link to the live demo can be found at **[lstm.seas.harvard.edu](http://lstm.seas.harvard.edu)**
-
-Also check out our new work on Sequence-to-Sequence models on [github](https://github.com/hendrikstrobelt/seq2seq-vis) or the live demo at **[http://seq2seq-vis.io/](http://seq2seq-vis.io/)**
-
-<div style='text-align:center'>
-<img src="docs/img/teaser_V2.png" />
-</div>
-
-## Changes in V2
-- new design and server-backend
-- discrete zooming for hidden-state track
-- added annotation tracks for meta-data and prediction
-- added training and extraction workflow for tensorflow
-- client is now ES6 and D3v4
-- some performance enhancements on client side
-- Added Keras tutorial [here](docs/keras.md) (thanks to Mohammadreza Ebrahimi)
-
-
+isual Analysis for State Changes in RNNs Optimized for Genomic Sequences
 
 ## Install
 
