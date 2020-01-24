@@ -1,3 +1,5 @@
+# GenomeNet <img src="www/Logo.png" width="131px" height="140px" align="right" style="padding-left:10px;background-color:white;" />
+
 Visual Analysis for State Changes in RNNs Optimized for Genomic Sequences
 
 ## Install
