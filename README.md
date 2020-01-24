@@ -1,4 +1,4 @@
-isual Analysis for State Changes in RNNs Optimized for Genomic Sequences
+Visual Analysis for State Changes in RNNs Optimized for Genomic Sequences
 
 ## Install
 
