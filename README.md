@@ -112,10 +112,5 @@ Check out our documents about:
 * [tools that make your life easier](docs/chapter/tools.md)
 
 
-
-
-
-
 ## Credits
-
-LSTMVis is a collaborative project of Hendrik Strobelt, Sebastian Gehrmann, Bernd Huber, Hanspeter Pfister, and Alexander M. Rush at Harvard SEAS.
+This work is based on LSTMVis, a collaborative project of Hendrik Strobelt, Sebastian Gehrmann, Bernd Huber, Hanspeter Pfister, and Alexander M. Rush at Harvard SEAS.
